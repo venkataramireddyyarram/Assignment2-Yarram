@@ -5,11 +5,11 @@ Lab 2
 The Bapu Museum (formerly: Victoria Jubilee Museum) is an archaeological museum, **located at M. G. Road of Vijayawada**. It was renamed in the memory of the renowned film director, illustrator, cartoonist and author Bapu.The museum is maintained by the Archaeological department and has large collection of sculptures, paintings and artifacts of Buddhist and Hindu relics, with some of them as old as 2nd and 3rd Centuries. **The structure of building is an Indo-European style of architectural and is more than a hundred years old structure**.
 ---
 # Direction to Museum
-1.Vijayawada International Airport
-2.Head southwest on NH16 toward Old Airport Rd/Vijayawada Airport Rd
-3.Turn right onto Old Airport Rd/Vijayawada Airport Rd
-4.Turn left onto NH16
-5.Slight right onto MDR75
-6.Slight left onto Eluru Rd/Karl Marx Rd
-7.Turn left after Bank of Baroda(on the left) onto Museum Rd
-8.Turn right onto MG Rd/Vijayawada Rd
+1. Vijayawada International Airport
+2. Head southwest on NH16 toward Old Airport Rd/Vijayawada Airport Rd
+3. Turn right onto Old Airport Rd/Vijayawada Airport Rd
+4. Turn left onto NH16
+5. Slight right onto MDR75
+6. Slight left onto Eluru Rd/Karl Marx Rd
+7. Turn left after Bank of Baroda(on the left) onto Museum Rd
+8. Turn right onto MG Rd/Vijayawada Rd
