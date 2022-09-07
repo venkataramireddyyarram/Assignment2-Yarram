@@ -13,3 +13,9 @@ The Bapu Museum (formerly: Victoria Jubilee Museum) is an archaeological museum,
 6. Slight left onto Eluru Rd/Karl Marx Rd
 7. Turn left after Bank of Baroda(on the left) onto Museum Rd
 8. Turn right onto MG Rd/Vijayawada Rd
+# List of locations around the Museum
+- Passport Seva Kendra
+- Hotel Manorama
+- Krishnalanka
+- PVP Square
+- Budha Dharma Chakra
