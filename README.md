@@ -39,6 +39,23 @@ The Bapu Museum (formerly: Victoria Jubilee Museum) is an archaeological museum,
 
 > I have only made this letter longer because I have not had the time to make it shorter -- *Blaise Pascal*
 
+***
+# Code Fencing
+
+How to Link the Pseudo-Classes (In Order) ?
+
+[Question](https://stackoverflow.com/questions/38066110/where-to-put-css-pseudo-classes)
+
+```
+a:link    { color: blue; }
+a:visited { color: purple; }
+a:hover   { color: red; }
+a:focus   { outline: 1px solid blue; }
+a:active  { color: yellow ;}
+```
+[Code snippet](https://css-tricks.com/snippets/css/link-pseudo-classes-in-order/)
+
+
 
 
 
