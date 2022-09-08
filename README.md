@@ -23,9 +23,7 @@ The Bapu Museum (formerly: Victoria Jubilee Museum) is an archaeological museum,
  [Aboutmefile](Aboutme.md)
 
  ***
-
  # Best cities to visit
-
 
  | Name of the city | Location to visit | Time to spend|
  |------------------|-------------------|--------------|
@@ -33,5 +31,15 @@ The Bapu Museum (formerly: Victoria Jubilee Museum) is an archaeological museum,
  | Hyderabad        | Charminar         | 1 hour       |
  | Gujarath         | Statue of Unity   | 1 hour       |
  | Pondicherry      | Rock beach        | 3 hours      |
+
+ *** 
+ # Pithy Quotes
+
+> Mathematicians deal with large numbers sometimes, but never in their income -- *Isaac Asimov*
+
+> I have only made this letter longer because I have not had the time to make it shorter -- *Blaise Pascal*
+
+
+
 
 
