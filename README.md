@@ -21,3 +21,17 @@ The Bapu Museum (formerly: Victoria Jubilee Museum) is an archaeological museum,
 - Budha Dharma Chakra
 
  [Aboutmefile](Aboutme.md)
+
+ ***
+
+ # Best cities to visit
+
+
+ | Name of the city | Location to visit | Time to spend|
+ |------------------|-------------------|--------------|
+ | Chennai          | Merina beach      | 2 hours      |
+ | Hyderabad        | Charminar         | 1 hour       |
+ | Gujarath         | Statue of Unity   | 1 hour       |
+ | Pondicherry      | Rock beach        | 3 hours      |
+
+
